@@ -1,4 +1,4 @@
-# 📝 Todo List - Backend (Node.js & PostgreSQL)
+# Todo List - Backend (Node.js & PostgreSQL)
 
 ระบบจัดการข้อมูลหลังบ้านสำหรับโปรเจกต์ Todo List พัฒนาด้วย Express.js และ PostgreSQL
 
