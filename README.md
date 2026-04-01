@@ -20,3 +20,7 @@
    ```bash
    npm install
    ```
+3. **How to run:**
+   ```bash
+   npm start
+   ```
